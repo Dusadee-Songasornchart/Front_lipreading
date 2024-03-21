@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;700&family=Oswald:wght@500&family=Poppins&family=Raleway:wght@100;600;700&display=swap');
+
+body{
+    font-family: 'Poppins';
+    background-color: #FFFCFC;
+}
+.Create_team_background{
+    background-color: #cbd5e1;
+}

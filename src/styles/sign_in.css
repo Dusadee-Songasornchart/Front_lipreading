@@ -1,0 +1,37 @@
+/* In your CSS file */
+
+/* Define a class for the input */
+.input-password {
+    width: 100%;
+    border: 0;
+    padding: 0.375rem ;
+    color: #1a202c; /* Use the appropriate text color */
+    box-shadow: 0 0 0 1px #d2d6dc; /* Adjust ring color */
+    border-radius: 0.375rem;
+  }
+  
+  .input-password::placeholder {
+    color: #a0aec0; /* Adjust placeholder text color */
+  }
+  
+  .input-password:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #1e3a8a; /* Adjust focus ring color */
+  }
+  .input-username {
+    width: 100%;
+    border: 0;
+    padding: 0.375rem ;
+    color: #1a202c; /* Use the appropriate text color */
+    box-shadow: 0 0 0 1px #d2d6dc; /* Adjust ring color */
+    border-radius: 0.375rem;
+  }
+  
+  .input-username::placeholder {
+    color: #a0aec0; /* Adjust placeholder text color */
+  }
+  
+  .input-username:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #1e3a8a; /* Adjust focus ring color */
+  }

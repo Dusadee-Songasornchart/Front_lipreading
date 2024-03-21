@@ -1,0 +1,7 @@
+.color-option {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+    border: 1px solid #ccc;
+  }

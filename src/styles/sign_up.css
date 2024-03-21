@@ -1,0 +1,19 @@
+.input-input-signup {
+    width: 100%;
+    border: 0;
+    padding: 0.375rem ;
+    color: #1a202c; /* Use the appropriate text color */
+    box-shadow: 0 0 0 1px #d2d6dc; /* Adjust ring color */
+    border-radius: 0.375rem;
+  }
+  
+  .input-input-signup::placeholder {
+    color: #a0aec0; /* Adjust placeholder text color */
+  }
+  
+  .input-input-signup:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #1e3a8a; /* Adjust focus ring color */
+  }
+
+  
